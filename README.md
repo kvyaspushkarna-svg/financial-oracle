@@ -7,7 +7,7 @@ A four-part interactive web app that teaches **first-time investors** the essent
 - Uses behavioural-finance concepts to address the mental barriers new investors face.
 - Keeps the language beginner-friendly, practical, and jargon-free.
 
-## Built with
+## Built as
 Interactive web app · Behavioural finance concepts · Financial-literacy content
 
 ## Run it locally
